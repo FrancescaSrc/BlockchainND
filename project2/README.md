@@ -142,9 +142,7 @@ compilers: {
 ```
 
 ## Download the boiler plate code
-[Udacity starter code](https://github.com/udacity/nd1309-p2-Decentralized-Star-Notary-Service-Starter-Code) 
+Download link: [Udacity starter code](https://github.com/udacity/nd1309-p2-Decentralized-Star-Notary-Service-Starter-Code) 
  
 
----
 
-Do not use the [Old depreacted zipped starter code](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/January/5c51c4c0_project-5-starter-code/project-5-starter-code.zip)

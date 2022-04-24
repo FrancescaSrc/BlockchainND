@@ -61,7 +61,9 @@ The Boilerplate code is a simple architecture for a Blockchain application, it i
 
 ### Starting with the boilerplate code:
 
-First thing first, we are going to download or clone our boilerplate code.
+First thing first, download or clone the boilerplate code:
+Download link: [Udacity Project 1 starter code](https://video.udacity-data.com/topher/2021/October/61673884_project-1-v2-boilerplate/project-1-v2-boilerplate.zip) 
+
 
 Then we need to install all the libraries and module dependencies, to do that: open a terminal and run the command `npm install`
 
