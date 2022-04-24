@@ -1,5 +1,6 @@
-# ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
-**PROJECT: Decentralized Star Notary Service Project** - For this project, I have created a DApp by with functionalities in a smart contract and deployed it on the public testnet Rinkeby.
+# Ethereum Smart Contracts, Tokens and Dapps  
+**PROJECT: Decentralized Star Notary Service Project** 
+For this project, I have created a DApp by with functionalities in a smart contract and deployed it on the public testnet Rinkeby.
 
 The ERC-721 Token Name is: My little stars
 The ERC-721 Token sybol is: MLS
@@ -140,10 +141,9 @@ compilers: {
     // ...
 ```
 
-## Raise a PR or report an Issue
-1. Feel free to raise a [Pull Request](https://github.com/udacity/nd1309-p2-Decentralized-Star-Notary-Service-Starter-Code/pulls) if you find a bug/scope of improvement in the current repository. 
-
-2. If you have suggestions or facing issues, you can log in issue. 
+## Download the boiler plate code
+[Udacity starter code](https://github.com/udacity/nd1309-p2-Decentralized-Star-Notary-Service-Starter-Code) 
+ 
 
 ---
 
